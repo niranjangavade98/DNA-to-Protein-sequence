@@ -10,4 +10,4 @@ Protiens.txt    :  contains sequence of amino acids which is the correct sequenc
                    
 
 
-You can find more examples of DNA sequence and their corresponding amino acid sequence here   -->   https://www.ncbi.nlm.nih.gov/nuccore/                  
+You can find more examples of DNA sequence and their corresponding amino acid sequence here: https://www.ncbi.nlm.nih.gov/nuccore/                  
