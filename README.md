@@ -1,5 +1,5 @@
 # DNA-to-Protein-sequence
-Translate a string containing a nucleotide sequence(DNA) into a string containing the corresponding sequence of amino acids.
+Translate a string containing nucleotide sequence(DNA) into a string containing corresponding sequence of amino acids.
 
 DNA_to_Prot.py  :  source code written in Python that is responsible for converting given nucleotide sequence (DNA) to a sequence of                          corresponding Amino Acids.
 
